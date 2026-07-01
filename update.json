@@ -1,15 +1,17 @@
 {
-  "version": "1.1.0",
-  "base_url": "https://github.com/Ktos0423c/updateMC/releases/download/v1.1.0/Minecraft_v1.1.0.zip",
-  "patches": [
-    "v1.0_to_1.1.zip"
-  ],
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/Ktos0423c/updateMC/releases/download/v1.1.0/v1_0_0-to-v1_1_0.zip",
   "changelog": [
-        "Dodano nowe biomy",
-        "Naprawiono błędy z wodą",
-        "Zwiększono wydajność"
-    ],
+    "Dodano nowe biomy",
+    "Naprawiono błędy"
+  ],
   "delete": [
-    
+    "old_file.py",
+    "obsolete_folder/"
+  ],
+  "available_versions": [
+    "1.0.0",
+    "1.1.0",
+    "1.2.0"
   ]
 }
