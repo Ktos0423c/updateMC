@@ -6,12 +6,10 @@
     "Naprawiono błędy"
   ],
   "delete": [
-    "old_file.py",
-    "obsolete_folder/"
+    ""
   ],
   "available_versions": [
     "1.0.0",
-    "1.1.0",
-    "1.2.0"
+    "1.1.0"
   ]
 }
